@@ -10,7 +10,6 @@ function selectionSort(arr) {
         arr[i] = min;
       }
     }
-    console.log(arr);
   }
   return arr;
 }
